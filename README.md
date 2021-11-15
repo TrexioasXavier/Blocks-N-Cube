@@ -1,2 +1,2 @@
-# Blocks N Cubes
- A voxel based base capturing shooter.
+# Blocks N Guns
+ 
